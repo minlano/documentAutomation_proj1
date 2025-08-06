@@ -1,0 +1,4 @@
+# 깃허브에 올라가면 안되는 인증키 기록
+confidencial.json
+.env
+kakao_keys.json
